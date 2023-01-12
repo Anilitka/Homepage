@@ -155,13 +155,7 @@ left: 35px;
         width: 250px;
    
     }
-    .rightnav{
-        display: flex;
-        flex-direction: column;
-        margin-top: 0;
-   
 
-    }
     .rightnav a{
         margin-top: 0;
 
